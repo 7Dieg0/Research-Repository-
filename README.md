@@ -5,3 +5,5 @@ Do you understand **animal**?
 _underscores_
 **asterisks and _underscores_**
 **_animal_**
+~~delete~~
+~~Scratch this.~~
