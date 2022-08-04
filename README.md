@@ -17,7 +17,7 @@ _plants_ are very normal.
 - Hey jude dont be afraid.
   - Thats what I am talking about.
   - what?
-    - First of all
-    - Secondly
-    - Thirdly
+    1. First of all
+    2. Secondly
+    3. Thirdly
 
